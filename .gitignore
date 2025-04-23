@@ -1,0 +1,4 @@
+*.DS_Store
+*.code-workspace
+.venv
+./data/raw/*.csv
