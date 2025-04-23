@@ -15,4 +15,6 @@ Response : 1 : Customer is interested, 0 : Customer is not interested
 ## Dataset
 Dữ liệu được sử dụng từ [Kaggle](https://www.kaggle.com/competitions/qtdt-project-ii/data).
 
-Do dữ liệu lớn, không thể push lên github. Các bạn có thể tải về từ Kaggle và upload lên Google Drive của mình để sử dụng.
+Do dữ liệu lớn, không thể push lên github. Các bạn có thể tải về từ Kaggle và upload lên Google Drive của mình để sử dụng. Hoặc cho vào trong thư mục `data/raw/` của repo này.
+
+CHÚ Ý: Mình đã cho git ignore thư mục `data/raw/` để tránh việc upload dữ liệu lớn lên github. VẬY NÊN ĐỪNG ĐỂ FILE CSV NẰM Ở ĐÂU KHÁC TRÁNH BỊ LỖI KHI PUSH, kể cả việc tạo thư mục con trong `data/raw/`. Ae cũng ĐỪNG COMMIT các file trong thư mục này nhé. Chỉ cần để file ở đó và chạy notebook là được.

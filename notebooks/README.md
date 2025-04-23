@@ -1,0 +1,1 @@
+Các file này để mọi người thử code (đại loại giống nháp) nên ae thỏa mái tự do chạy code nhé. Ae nào mà thay đổi hay sửa data thì nên có thêm message để mọi người hiểu ý tưởng nhé.
